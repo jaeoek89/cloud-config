@@ -1,0 +1,5 @@
+token:
+   expiration_time : 865400000
+   secret: dev
+gateway:
+   ip: 2.2.2.2
