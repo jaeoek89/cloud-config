@@ -1,0 +1,5 @@
+token:
+   expiration_tie : 865400000
+   secret: user_token
+gateway:
+   ip: 127.0.0.1
